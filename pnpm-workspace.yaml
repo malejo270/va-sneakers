@@ -1,9 +1,2 @@
-minimumReleaseAgeExclude:
-  - '@next/*'
-  - next
-
-onlyBuiltDependencies:
-  - esbuild
-
 allowBuilds:
   esbuild: true
